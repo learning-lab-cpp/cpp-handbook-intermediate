@@ -1,1 +1,1 @@
-void passByRef(int &num1);
+void passByRef(int &);
